@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prarthana Kandwal</h1>
 👩🏻‍💻 I am a passionate Software Engineer sharing about my learnings.<br/>
 👩🏻‍🎓 Recently completed my masters in Advanced Software Engineering from King's College London.<br/>
-💭 Currently looking for full time job opportunities as a Software Engineer.</br>
-🌱 I’m currently learning React and MERN.</br>
+💭 Actively Looking for full time job opportunities as a Software Engineer.</br>
+🌱 Currently learning React and MERN.</br>
 📫 Reach out to me at prarthanakandwal98@gmail.com
 
 ## 🌐 Socials:
