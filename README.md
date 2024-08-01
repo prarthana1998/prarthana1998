@@ -3,7 +3,6 @@
 👩🏻‍🎓 Recently completed my masters in Advanced Software Engineering from King's College London.<br/>
 💭 Actively Looking for full time job opportunities as a Software Engineer.</br>
 🌱 Currently learning React and MERN.</br>
-📝 Working on my portfolio using HTML, CSS and JavaScript. </br>
 📫 Reach out to me at prarthanakandwal98@gmail.com
 
 ## 🌐 Socials:
