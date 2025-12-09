@@ -12,7 +12,7 @@ A backend service that helps readers track their book collection, reading progre
 Built with **FastAPI**, focusing on production-ready API design, authentication patterns, and database management.
 
 **MindVault**  
-A minimal and beautiful journaling web app designed to help users capture their thoughts, feelings, and memories in an organised and meaningful way.
+A minimal and beautiful journaling web app designed to help users capture their thoughts, feelings, and memories in an organised and meaningful way. Built with **Next.js**, **JavaScript**
 
 **ML for Accelerating Drug Discovery**  
 A research project using machine learning models to predict pIC50 values of acetylcholinesterase inhibitors, supporting early-stage drug discovery.
