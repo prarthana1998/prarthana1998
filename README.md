@@ -1,13 +1,21 @@
-<h1 align="center">Hi, I'm Prarthana Kandwal</h1>
-I'm a UK based Software Engineer with 2 years of work experience. I enjoy using technology to make software that can be helpful to users. </br>
-Some of the techologies that I have worked with so far are Python | JavaScript | TypeScript | Next.js | FastAPI </br>
-I am always open to learning new technologies.
+# Hi, I'm Prarthana Kandwal 
 
-Projects that I have worked on or are currently working on:
+I'm a UK-based Software Engineer with 2 years of experience building clean, intuitive, and user-centric software. I enjoy solving real problems with technology and continuously learning new tools and frameworks.
 
-1) ReadTrackAPI: A backend service that helps readers track their book collection, reading progress, and notes in one place. Built with FastAPI to demonstrate production-grade API design, authentication patterns, and database management
-2) MindVault: A minimal and beautiful journaling web app designed to help you capture your thoughts, feelings, and memories in an organised and meaningful way
-3) Use of ML in Accelerating Drug Discovery : The primary aim of the research project is to use machine learning models to predict the pIC50 values of acetylcholinesterase inhibitors.
+### 🛠️ Technologies I’ve worked with
+Python • JavaScript • TypeScript • Next.js • React
 
-Contact me at: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prarthana-kandwal/) 
+### 🚀 Projects
+
+**ReadTrackAPI**  
+A backend service that helps readers track their book collection, reading progress, and notes—all in one place.  
+Built with **FastAPI**, focusing on production-ready API design, authentication patterns, and database management.
+
+**MindVault**  
+A minimal and beautiful journaling web app designed to help users capture their thoughts, feelings, and memories in an organised and meaningful way.
+
+**ML for Accelerating Drug Discovery**  
+A research project using machine learning models to predict pIC50 values of acetylcholinesterase inhibitors, supporting early-stage drug discovery.
+
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/)  
