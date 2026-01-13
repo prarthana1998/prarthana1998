@@ -7,10 +7,6 @@ Python • JavaScript • TypeScript • Next.js • React
 
 ### 🚀 Projects
 
-**ReadTrackAPI**  
-A backend service that helps readers track their book collection, reading progress, and notes—all in one place.  
-Built with **FastAPI**, focusing on production-ready API design, authentication patterns, and database management.
-
 **MindVault**  
 A minimal and beautiful journaling web app designed to help users capture their thoughts, feelings, and memories in an organised and meaningful way. Built with **Next.js**, **JavaScript**
 
